@@ -19,7 +19,7 @@ This Power BI dashboard presents a comprehensive view of Amazon sales data.
   
 ## Motorola Sales Dashboard
 
-![Dashboard Preview]
+![Dashboard Preview] (https://github.com/yourusername/yourrepo/blob/main/amazon-dashboard-preview.png?raw=true)
 ## 🔗 Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/swaraj-borhade-921a411a4/)
 
