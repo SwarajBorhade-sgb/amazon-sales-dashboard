@@ -15,7 +15,7 @@ This Power BI dashboard presents a comprehensive view of Amazon sales data.
 - Repeat customer rate increased by 15% YoY
 
 ## 📂 Files Included
-- `Amazon sales dashboard.pdf`: PDF export of the dashboard
+- Amazon-Dashboard.pbix
   
 ## Motorola Sales Dashboard
 
